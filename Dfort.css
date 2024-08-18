@@ -1,0 +1,108 @@
+.nav-link{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text{
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 250px;
+    margin-left:15px;
+}
+.secondpage{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    top:20px
+}
+.item{
+   position: "";
+   left:360px;
+   top:50px
+}
+.story{
+    position: "";
+    top:50px;
+    
+    left: 480px;
+    font-family: "Playwrite ES Deco", cursive;
+}
+.storyimg{
+    position: "";
+    top:150px;
+    left:150px;
+}
+.storyright{
+    position: "";
+    top:150px;
+    
+    font-family: "Playwrite ES Deco", cursive;
+  
+}
+.main{
+    background-color: rgb(137, 136,136)
+   
+;
+}
+.navbar{
+position:fixed;
+width:100%}
+.rooms{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+     text-align: center;}
+     .list{
+        list-style-type:circle;
+     }
+
+     
+
+.roomie {
+  font-family: "Matemasie, sans-serif"
+}
+.events{
+    
+    font-family: "Matemasie, sans-serif"
+        
+        
+      }
+      .ayurtext{
+        position: relative;
+        bottom: 370px;
+      }
+      .ayurtext1{
+        position: relative;
+        bottom:350px
+      }
+      
+   .ayurveda{
+    position: " relative";
+    top: 400px;
+    color:rgb(226, 233, 238);
+    
+   } 
+   .img{opacity: 0.75;}
+   .welbutton{
+    position: "";
+    top:20px;
+   }
+    .frontimg{
+        position: " ";
+        top: 60px;
+        
+    
+    }
+     .footer{
+        position: "";
+        top:100px;
+     }   
+      
+      .roomfont{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      } 
+
+.contact{
+    background-color: #ece0e4;
+}
+
+    
+
+
